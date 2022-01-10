@@ -1,0 +1,39 @@
+
+
+
+.carousel-item img {
+    height: 600px;
+    object-fit: cover;
+}
+
+body {
+    height: 2000px;
+}
+.card img {
+    width: 360px;
+    padding-top: 10px;
+}
+
+.card  {
+    border-radius: 20px;
+    margin: 0 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body{
+    width: 100%;
+    background-color: #d5d7da;
+}
+
+/* .pult {
+    height: 100px;
+    background: dodgerblue;
+    border: 1px solid red;
+}
+
+.pults {
+    height: 40px;
+    border: 1px solid red;
+} */
